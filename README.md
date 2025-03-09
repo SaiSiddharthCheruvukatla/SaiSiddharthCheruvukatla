@@ -1,7 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm **Sai Siddharth Cheruvukatla**  
 ![Header](https://img.shields.io/badge/-Data_Analytics-blue?style=for-the-badge&logo=tableau&logoColor=white) ![Header](https://img.shields.io/badge/-Business_Intelligence-blue?style=for-the-badge&logo=tableau&logoColor=white)
 
-# 👋 Hi, I'm **Sai Siddharth Cheruvukatla**  
 📍 **New Jersey, NJ** | 📧 sid.ch510@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sai-siddharth-cheruvukatla-299622234/) | [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](#)
 
 ## 📊 **Business Intelligence | Data Analytics | Visualization Specialist**
